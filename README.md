@@ -1,5 +1,5 @@
-#Expense App Project
-###Todos
+# Expense App Project
+### Todos
 - Create graph page
 - Create list page
 - Create About Us page
