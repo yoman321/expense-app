@@ -23,6 +23,7 @@ const MainPage = () => {
           </tbody>
         </table>
       </div>
+      <div className={styles.section}></div>
     </div>
   );
 };
